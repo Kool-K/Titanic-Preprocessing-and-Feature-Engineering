@@ -4,7 +4,7 @@ This repository contains the solution for Task 1 of the AI & ML Internship at El
 
 ## Task Objective
 
-The primary objective was to clean, preprocess, and prepare the raw Titanic dataset for machine learning applications. [cite_start]This involved handling missing values, encoding categorical data, and scaling numerical features. [cite: 4]
+The primary objective was to clean, preprocess, and prepare the raw Titanic dataset for machine learning applications.This involved handling missing values, encoding categorical data, and scaling numerical features.
 
 ## Tools and Libraries Used
 * **Python**: The core programming language.
